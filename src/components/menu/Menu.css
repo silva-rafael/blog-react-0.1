@@ -1,0 +1,25 @@
+ul{
+    background-color: #333;
+    padding: 20px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+li{
+    display: inline-block;
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    padding: 20px;
+    background-color: #777;
+    color: #fff;
+    font-size: 1.3rem;
+    text-transform: uppercase;
+}
+
+a:hover{
+    background-color: #7f7f7f;
+}

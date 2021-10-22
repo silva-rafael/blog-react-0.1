@@ -1,0 +1,10 @@
+p{
+    font-size: 1.2rem;
+    color: #666;
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
